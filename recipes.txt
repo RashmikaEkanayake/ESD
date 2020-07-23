@@ -4,4 +4,7 @@ Pizza
 Chicken
 ice cream
 
+pasta
+rice
+
 --thank you--
